@@ -52,7 +52,7 @@ IOM provides:
 - `BART.ipynb` compares the IOM to the methodology in Pratola 2022
 - `deep_learning_cats_dogs.ipynb` compares the IOM to influence functions in deep learning using the Cats and Dogs dataset
 - `Countries.ipynb` investigates the IOM in a real world data set (From the World Development Indicators) using a boosted-tree algorithm
-- `Comparison_ols_iom.ipynb` compares the IOM to OLS and a random forest using the Prestige dataset from the `R` packages `carData`
+- `Comparison_ols_iom.ipynb` compares the IOM to OLS and a random forest using the Prestige dataset from the `R` package `carData`
 - `nf_full.ipynb`, `nf_full_architecture.ipynb`, `nf_full_moons.ipynb` evaluate the normalizing flow change-of-measure technique
 
 ---
